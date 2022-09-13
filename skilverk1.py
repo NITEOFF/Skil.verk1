@@ -94,7 +94,7 @@ if n2 > n1 and n2 > n3:
 print ("\n")
 
 
-# LIDUR 7: Tommur - Sentimetra
+# Lidur 7: Tommur - Sentimetra
 tommur = 0
 cm = 0
 mode = input("C for cm - T for tommur: ")
